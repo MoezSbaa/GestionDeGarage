@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1029201520145",
+    "firebase_url": "https://watchful-cirrus-198016.firebaseio.com",
+    "project_id": "watchful-cirrus-198016",
+    "storage_bucket": "watchful-cirrus-198016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029201520145:android:218ec5b1c994d8b5fcb3b0",
+        "android_client_info": {
+          "package_name": "com.auto_center"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029201520145-a5jmtki29r889nvf0dk21urnr96gk2rs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGlhaW-6C2FphBZmBrKjKhy1FaeWHtN5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029201520145-a5jmtki29r889nvf0dk21urnr96gk2rs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
